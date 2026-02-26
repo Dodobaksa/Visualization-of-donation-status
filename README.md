@@ -1,13 +1,28 @@
 # Visualization-of-donation-status
 
+🧩 **기빙코리아 2026 개인기부자 설문 데이터 분석 프로젝트**  
+작업기간: *2026.02.07 ~ 2026.02.25*  
+작업자: **dodobaksa**
 
-# 🧩 기빙코리아 2026 개인기부자 설문 데이터 분석 프로젝트  
-**작업기간:** 2026.02.07 ~ 2026.02.25  
-**작업자:** dodobaksa
-**데이터 출처:** 
-https://research.beautifulfund.org/22799/
+데이터 출처:  
+🔗 https://research.beautifulfund.org/22799/
 
-### 🔗 [👉 전체 시각화 페이지 바로가기](https://www.notion.so/2026-312a4a076c608032a3bac127701c972a))
+---
+
+## 🔗 전체 시각화 페이지 바로가기
+
+<p align="left">
+  <a href="https://www.notion.so/2026-312a4a076c608032a3bac127701c972a" target="_blank">
+    <img src="https://img.shields.io/badge/📊_Notion_Visualization_Page-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📘 프로젝트 소개
+기빙코리아 2026 개인기부자 설문 데이터를 기반으로 기부 행동·동기·패턴을 시각화한 프로젝트입니다.  
+데이터 전처리, 통계 분석, 인사이트 도출, EDA 및 시각화를 포함합니다.
+
 
 ---
 
