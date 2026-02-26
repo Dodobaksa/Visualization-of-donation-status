@@ -4,12 +4,11 @@
 작업기간: *2026.02.07 ~ 2026.02.25*  
 작업자: **dodobaksa**
 
-데이터 출처:  
-🔗 https://research.beautifulfund.org/22799/
+데이터 출처: 🔗 https://research.beautifulfund.org/22799/
 
 ---
 
-## 🔗 전체 시각화 페이지 바로가기
+## 📉 전체 시각화 페이지 바로가기
 
 <p align="left">
   <a href="https://www.notion.so/2026-312a4a076c608032a3bac127701c972a" target="_blank">
