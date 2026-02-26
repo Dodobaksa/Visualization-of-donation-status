@@ -21,11 +21,11 @@ Analyzing the entire donor data to derive donation patterns and targeting strate
 
 이를 통해 비영리 단체가 **효율적·과학적 모금 전략을 구축할 수 있는 인사이트**를 제공하고,  
 대한민국 개인기부 환경의 특성과 변화 요인을 데이터 기반으로 이해하는 데 기여하고자 합니다.
-# 📊 기빙코리아 2024 – 개인기부자 조사 데이터 분석
 
 **작업기간:** 2026.02.07 ~ 2026.02.25  
 **작업자:** dodobaksa
-**데이터 출처:** https://research.beautifulfund.org/22799/
+**데이터 출처:
+** https://research.beautifulfund.org/22799/
 
 ---
 
