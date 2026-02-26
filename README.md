@@ -5,6 +5,8 @@
 **작업기간:** 2026.02.07 ~ 2026.02.25  
 **작업자:** dodobaksa
 **데이터 출처:** https://research.beautifulfund.org/22799/
+👉 **시각화 대시보드 전체 보기:**  
+[[https://your-notion-public-page-url](https://your-notion-public-page-url)]([https://your-notion-public-page-url](https://your-notion-public-page-url))
 
 ---
 
