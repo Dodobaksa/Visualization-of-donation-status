@@ -1,7 +1,7 @@
 # Visualization-of-donation-status
 
 
-# 🧩 기빙코리아 2026 개인기부자 조사 데이터 분석 프로젝트  
+# 🧩 기빙코리아 2026 개인기부자 설문 데이터 분석 프로젝트  
 **작업기간:** 2026.02.07 ~ 2026.02.25  
 **작업자:** dodobaksa
 **데이터 출처:** https://research.beautifulfund.org/22799/
