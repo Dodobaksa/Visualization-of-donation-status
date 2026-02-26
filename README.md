@@ -4,9 +4,10 @@
 # 🧩 기빙코리아 2026 개인기부자 설문 데이터 분석 프로젝트  
 **작업기간:** 2026.02.07 ~ 2026.02.25  
 **작업자:** dodobaksa
-**데이터 출처:** https://research.beautifulfund.org/22799/
-👉 **시각화 대시보드 전체 보기:**  
-[[https://your-notion-public-page-url](https://your-notion-public-page-url)]([https://your-notion-public-page-url](https://your-notion-public-page-url))
+**데이터 출처:** 
+https://research.beautifulfund.org/22799/
+
+### 🔗 [👉 전체 시각화 페이지 바로가기](https://www.notion.so/2026-312a4a076c608032a3bac127701c972a))
 
 ---
 
